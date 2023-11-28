@@ -42,6 +42,8 @@
     - aws
     - gcp
     - gws
+    - kubernetes
+    - hayabusa
   notify: restart filebeat
   tags: sof-elk_filebeat
 
